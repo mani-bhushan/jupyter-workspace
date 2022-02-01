@@ -1,2 +1,2 @@
 # jupyter-workspace
-python jupyter notebook workspace
+jupyter notebook workspace
